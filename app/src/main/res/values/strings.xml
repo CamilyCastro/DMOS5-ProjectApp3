@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectApp3</string>
+    <string name="txt_name">Nome\n</string>
+    <string name="btn_add">Adicionar\n</string>
+</resources>
